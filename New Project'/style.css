@@ -1,0 +1,120 @@
+body{
+    background-image:url(./Images/pexels-pixabay-271643.jpg);
+    background-size: cover;
+}
+.container-fluid{
+  border:solid rgb(255, 188, 129);
+  margin-left: 40%;
+}
+.navbar-brand{
+    margin-left:3%  
+    
+}
+img{
+    height: 400px;
+    width: 800px;
+    image-resolution:inherit;
+}
+.carousel{
+    margin-left: 30%;
+    margin-right: 30%;
+   margin-top: 6%;
+   
+}
+.navbar-brand{
+    font-family:'gill Sans';
+}
+.title{
+    text-align: center;
+    margin-top: 30px;
+   color: black;
+   font-family: 'gill sans';
+   padding: 30px;
+}
+.needs-validation{
+    margin-left: 140px;
+}
+.mb-3{
+    font-family: 'gill sans';
+    color:white;
+    margin-top: 30px;
+    text-align: center;
+    margin-left: 140px;
+    font-size: 72px;
+}
+.form-label{
+    color: white;
+}
+.text-muted{
+    color: white;
+}
+.w-100 {
+    width: 50%!important;
+    margin-bottom: 140px;
+}
+.col-md-7 {
+    margin-top:5%;
+    margin-left: 10%;
+}
+.display-4{
+    font-family:'gill sans';
+    color: white;
+}
+.fs-4{
+    color: white;
+    font-family:'gill sans';
+}
+.card-body{
+    height: 400px;
+    width: 200px;
+    font-size: 20px;
+    margin-bottom: 10%;
+    background: transparent;
+    margin-left: 14%;
+}
+.row{
+    margin-left: 10%;
+}
+.w-100{
+    margin-left: 3%;
+}
+.container px-4{
+    background-color: white;
+}
+.bi{
+background:transparent;
+}
+.pb-2{
+    color: white;
+    font-family: 'gill sans';
+    font-size: 48px;
+
+}
+.col {
+    color: white;
+}
+.col h2{
+    color: rgb(253, 139, 0);
+    font-family: 'Gill Sans';
+}
+.carousel{
+    margin-top: 15%;
+    margin-bottom: 20%;
+    height: 60%;
+    width: 60%;
+    border-radius: 4%;
+   
+}
+main{
+margin-right: 20%;
+}
+.nav {
+    font-size: 20px;
+}
+.py-3 li :hover {;
+    border: solid white;
+    border-radius: 50%;
+    row-gap:3px;
+    transition-duration: 2s;
+}
+
